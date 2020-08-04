@@ -6,11 +6,26 @@ const connection = mysql.createConnection({
   // Your username
   user: "root",
   // Your password
-  password: "",
+  password: "password",
   database: "employees"
 });
 
-connection.connect();
+connection.connect(function(err) {
+  if (err) throw err;
+  console.log("connected as id " + connection.threadId + "\n");
+  employeeRead();
+});
+
+function employeeRead() {
+  connection.query("SELECT name of Employee", function(err, res) {
+    if (err) throw err;
+
+    // Log all results of the SELECT statement
+    console.log(res);
+    connection.end();
+  });
+}
+
 
 // Setting up connection.query to use promises instead of callbacks
 // This allows us to use the async/await syntax
