@@ -1,5 +1,4 @@
 # Employee-Tracker--MySQL
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Build a Back End Database solution for managing employees using node, inquirer and MySQL. <br />
 
