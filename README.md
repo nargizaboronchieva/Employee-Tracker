@@ -35,5 +35,6 @@ The Unlicense
 
 ## Deployed Application
 
-View a video demonstration of the Employee Tracker [here]()
+View a video demonstration of the Employee Tracker [here](https://drive.google.com/file/d/1TeP551wYLR1AbhM-fCSXAA5fe0n8wbNZ/view)
 
+![Demo GIF](./demo.gif)
