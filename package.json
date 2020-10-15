@@ -1,5 +1,5 @@
 {
-  "name": "employee-tracker--mysql",
+  "name": "employee-tracker",
   "version": "1.0.0",
   "description": "Application that allows the user to track employees",
   "main": "Employee.js",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lamcnguyen89/Employee-Tracker--MySQL.git"
+    "url": "git+https://github.com/nargizaboronchieva/Employee-Tracker.git"
   },
-  "author": "Lam Nguyen",
-  "license": "ISC",
+  "author": "Nargiza Boronchieva",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lamcnguyen89/Employee-Tracker--MySQL/issues"
+    "url": "https://github.com/nargizaboronchieva/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/lamcnguyen89/Employee-Tracker--MySQL#readme"
+  "homepage": "https://github.com/nargizaboronchieva/Employee-Tracker#readme"
 }

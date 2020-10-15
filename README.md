@@ -12,7 +12,7 @@ This is a command-line application that at a minimum allows the user to:
 ### Prerequisites and Deployment
 
 * Installation of Web Browser to view webpage
-* Visual Studio Code to analize the code for the website
+* Visual Studio Code to analze the code for the website
 * Node.js
 * MySQL
 * Installation of Node Package Modules: fs, nodemon
@@ -27,8 +27,11 @@ This is a command-line application that at a minimum allows the user to:
 
 ## Author
 
-**Nargiza Boronchieva **
+**Nargiza Boronchieva**
 
+## License
+
+The Unlicense
 
 ## Deployed Application
 
